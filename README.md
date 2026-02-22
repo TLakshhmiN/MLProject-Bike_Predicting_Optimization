@@ -10,4 +10,5 @@ pinned: false
 license: other
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the deployment and code base at Hugging face Spaces: 
+https://huggingface.co/spaces/LakshhmiNarayanan/MLProject-Bike_Predicting_Optimization/tree/main
